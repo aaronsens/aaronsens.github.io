@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lightsaber Duels"
-date: 2019-06-219
+date: 2019-06-19
 ---
 
 This blog post details my thoughts about lightsaber duels in Star Wars, and why a Star Wars movie will never have fight scenes like Episode 3 ever again. 
